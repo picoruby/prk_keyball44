@@ -116,7 +116,7 @@ else
           keyboard.unlock_layer if ball_move == 0
         end
       end
-      sleep_ms 10
+      sleep_ms 15
     end
     kbd.append mouse
     # Start Burst Motion reading
